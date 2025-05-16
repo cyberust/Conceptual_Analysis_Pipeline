@@ -1,0 +1,2 @@
+# Conceptual_Analysis_Pipeline
+坂根構造コーパスの概念分析パイプラインのColabノートブック
